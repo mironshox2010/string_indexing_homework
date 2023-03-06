@@ -10,6 +10,6 @@ def main(s,n):
         return False
     else:
         return s[n]
-print(main(s="uz" ,n=4))
+print(main(s="uz",n=4))
 
 
