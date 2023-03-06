@@ -6,4 +6,10 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    s1=s[0]
+    s2=s[-1]
+    s=s1+s2
+    return s
+print(main(s="ujfsi"))
+
+    
